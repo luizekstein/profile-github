@@ -64,7 +64,11 @@
 </div>
 
 <!-- Commits no Github -->
-![Snake animation](https://github.com/luizekstein/luizekstein/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <!-- Créditos desse design -->
 <div align="center">
