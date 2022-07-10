@@ -6,7 +6,7 @@
     
 <!-- Perfil escrito -->
 <div>
-  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/luiz-ekstein/"> <i>Luiz Ekstein</i> </a> 😃️</h1>
+  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/luiz-ekstein/"> <i>Luiz Ekstein</i> </a> 😊</h1>
   
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.sptech.school/"> <i>SPTech School</i> </a> </p>
 
@@ -15,21 +15,32 @@
   <p align="center">Trabalhei estagiando por 1 ano como Mobile Developer Android na 
     <a href="https://www.valemobi.com.br/"> <i>Valemobi</i> </a> 
   </p>
-
-  <p align="center">Tenho dois apps mobile feitos por mim em Java e Kotlin para fins estudantis próprios.</p>
-
+  
   <p align="center">Atualmente busco oportunidades para colaborar em um ambiente de trabalho, onde eu possa colocar em pratica meus              conhecimentos em favor da instituição na qual viso integra, dividindo conhecimento e, claro: gerando RESULTADOS!
   </p>
+  
+  <p align="center">Tenho dois apps mobile feitos por mim em Java e Kotlin para fins estudantis próprios. Acesse aqui 👇🏻</p>
 </div>
 
-<!-- Status do Github -->
+<!-- Status 1 do Github 
 <div align="center">
-  <a href="https://github.com/luizekstein" style="text-decoration: none;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizekstein&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizekstein&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/luizekstein">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizekstein&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizekstein&theme=gruvbox&hide_border=false&&layout=compact"/>
   </a>
 </div>
+-->
 
+<!-- Status 2 do Github -->
+<div align="center">
+  <a href="https://github.com/luizekstein/quatro">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizekstein&repo=quatro&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/luizekstein/individual-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizekstein&repo=individual-project&theme=gruvbox" />
+  </a>
+</div>
+  
 <!-- Linguagens e ferramentas usadas por mim -->
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
